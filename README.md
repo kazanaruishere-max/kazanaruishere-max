@@ -22,8 +22,9 @@ I’m also actively exploring how **Artificial Intelligence** will influence eve
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kazanaru) 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Pacman Divider"/>
+  <img src="https://media.giphy.com/media/e2oZ2s1h9hY0A/giphy.gif" width="200" alt="Pacman Animation"/>
 </p>
+
 
 
 # 💻 Tech Stack:
