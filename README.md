@@ -7,8 +7,8 @@
 
 ### 🚀 What I'm Seeking
 I’m currently looking for **funding** and a **dedicated team** to help scale and refine my ongoing projects.
-- **Funding for:** [Coming Soon!] - *Briefly explain what the funding is for.*
-- **Roles I'm hiring:** [Ai Engineer], [Generative Ai] - *Who do you need?*
+- **Funding for:** [Project Name/Startup Idea] - *Briefly explain what the funding is for.*
+- **Roles I'm hiring:** [Role 1], [Role 2] - *Who do you need?*
 
 I’m also actively exploring how **Artificial Intelligence** will influence everyday life in the coming years.
 
@@ -30,9 +30,11 @@ I’m also actively exploring how **Artificial Intelligence** will influence eve
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project Name 1** | A brief description of your awesome project. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | [Demo](#) |
-| **Project Name 2** | Another cool project you built. | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | [Repo](#) |
-| **Project Name 3** | Something innovative and impactful. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | [View](#) |
+| **NOXXDRA - AI** | AI yang membantu keseharianmu dalam segi keuangan, kesehatan dan pengingat. | ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![Three.js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) | [Repo](https://github.com/kazanaruishere-max/NOXXDRA-AI) |
+| **COLLECT EM ALL** | Game sederhana mengumpulkan koin dan menang. | ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) | [Repo](https://github.com/kazanaruishere-max/COLLECT-EM-ALL) |
+| **Coming Soon** | 🚧 Under Construction 🚧 | ⏳ | 🔜 |
+| **Coming Soon** | 🚧 Under Construction 🚧 | ⏳ | 🔜 |
+| **Coming Soon** | 🚧 Under Construction 🚧 | ⏳ | 🔜 |
 
  
 
@@ -51,17 +53,26 @@ I’m also actively exploring how **Artificial Intelligence** will influence eve
 
 ### Tools, Cloud & Design
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+<div align="center">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kazanaruishere-max&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kazanaruishere-max&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kazanaruishere-max&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kazanaruishere-max&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kazanaruishere-max&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kazanaruishere-max&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kazanaruishere-max&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🕹️ Pacman Contribution Graph
+![](https://github.com/kazanaruishere-max/kazanaruishere-max/blob/main/pacman-graph.svg)
 
