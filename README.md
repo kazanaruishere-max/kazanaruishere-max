@@ -1,5 +1,21 @@
-# 💫 About Me:
-🇺🇸 English<br>🛠️ I’m currently working on<br>Projects across applications, webapps, game development (Godot, Unity, and Unreal Engine), and robotics.<br><br>🤝 I’m looking to collaborate on<br>Application development, webapps, game development, and robotics I want to bring my programming logic into projects where people truly need it.<br><br>🧠 I’m looking for help with<br>Funding and a dedicated team to support and scale my ongoing projects.<br><br>🌱 I’m currently learning<br>Artificial intelligence and how its impact will shape the world in the coming year.<br><br>💬 Ask me about<br>Full-stack engineering, crypto technologies, or modern game-development workflows.<br><br>🇮🇩 Bahasa Indonesia<br>🛠️ Saat ini saya sedang mengerjakan<br>Proyek aplikasi, webapp, pengembangan game (Godot, Unity, dan Unreal Engine), serta robotik.<br><br>🤝 Saya ingin berkolaborasi dalam<br>Pengembangan aplikasi, webapp, game, dan robotik karena saya ingin membawa logika pemrograman saya ke dalam proyek yang benar-benar dibutuhkan orang.<br><br>🧠 Saya mencari bantuan dalam<br>Pendanaan dan tim yang dapat membantu serta mengembangkan proyek-proyek saya lebih jauh.<br><br>🌱 Saat ini saya mempelajari<br>Kecerdasan buatan dan seberapa besar pengaruhnya dalam kehidupan di tahun mendatang.<br><br>💬 Tanyakan kepada saya tentang<br>Rekayasa full-stack, teknologi kripto, atau alur kerja pengembangan game modern.
+## 🌟 About Me
+
+> **I’m a multidisciplinary developer** working across applications, webapps, game development (**Godot, Unity, Unreal Engine**), and robotics.  
+> I'm passionate about collaborating on projects where my programming logic can create **real, meaningful impact**.
+
+---
+
+### 🚀 What I'm Seeking
+I’m currently looking for **funding** and a **dedicated team** to help scale and refine my ongoing projects.  
+I’m also actively exploring how **Artificial Intelligence** will influence everyday life in the coming years.
+
+---
+
+### 💬 Let’s Talk About
+- 🧩 Full-stack engineering  
+- 🪙 Crypto technologies  
+- 🎮 Modern game-development workflows  
+
 
 
 ## 🌐 Socials:
