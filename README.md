@@ -7,8 +7,8 @@
 
 ### 🚀 What I'm Seeking
 I’m currently looking for **funding** and a **dedicated team** to help scale and refine my ongoing projects.
-- **Funding for:** [Project Name/Startup Idea] - *Briefly explain what the funding is for.*
-- **Roles I'm hiring:** [Role 1], [Role 2] - *Who do you need?*
+- **Funding for:** [Coming Soon!] - *Briefly explain what the funding is for.*
+- **Roles I'm hiring:** [Ai Engineer], [Generative Ai] - *Who do you need?*
 
 I’m also actively exploring how **Artificial Intelligence** will influence everyday life in the coming years.
 
