@@ -16,7 +16,7 @@ I’m also actively exploring how **Artificial Intelligence** will influence eve
 
 ### 💬 Let’s Talk About
 - 🧩 Full-stack engineering  
-- 🪙 Crypto technologies  
+- 🪙 Web3 technologies  
 - 🎮 Modern game-development workflows  
 
 
