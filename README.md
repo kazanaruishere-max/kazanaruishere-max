@@ -74,6 +74,3 @@ I’m also actively exploring how **Artificial Intelligence** will influence eve
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🕹️ Pacman Contribution Graph
-![](https://github.com/kazanaruishere-max/kazanaruishere-max/blob/main/pacman-graph.svg)
-
