@@ -1,25 +1,9 @@
 ## 🌟 About Me
 
-> **I’m a multidisciplinary developer** working across Software Engineer and Ai Engineer.  
+> **I’m a multidisciplinary developer** working across Software Engineer.  
 > I'm passionate about collaborating on projects where my programming logic can create **real, meaningful impact**.
 
 ---
-
-### 🚀 What I'm Seeking
-I’m currently looking for **funding** and a **dedicated team** to help scale and refine my ongoing projects.
-- **Funding for:** [Coming Soon!] - *Briefly explain what the funding is for.*
-- **Roles I'm hiring:** [Ai Engineer], [Software Engineer] - *Who do you need?*
-
-I’m also actively exploring how **Artificial Intelligence** will influence everyday life in the coming years.
-
----
-
-### 💬 Let’s Talk About
-- 🧩 Full-stack engineering  
-- 🪙 Web3 technologies  
-- 🎮 Modern game-development workflows  
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kazanaru)
