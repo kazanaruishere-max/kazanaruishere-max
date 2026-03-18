@@ -1,6 +1,6 @@
 ## 🌟 About Me
 
-> **I’m a multidisciplinary developer** working across Software Engineer.  
+> **I’m a multidisciplinary developer** working across Fullstack Developer.  
 > I'm passionate about collaborating on projects where my programming logic can create **real, meaningful impact**.
 
 ---
