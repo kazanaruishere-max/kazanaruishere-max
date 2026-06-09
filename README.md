@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:6e40c9,100:0d1117&text=KAZANA%20RUIS%20HERE&reversal=false&section=header&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Code%20·%20Design%20·%20Innovate&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:6e40c9,100:0d1117&text=KAZANARU&reversal=false&section=header&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Code%20·%20Design%20·%20Innovate&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner" />
 </p>
 
 
