@@ -160,8 +160,8 @@
 
 ### 👷 Currently Working On
 
-- [kazanaruishere-max/uas](https://github.com/kazanaruishere-max/uas) - 
 - [kazanaruishere-max/SafeWallet](https://github.com/kazanaruishere-max/SafeWallet) - 
+- [kazanaruishere-max/uas](https://github.com/kazanaruishere-max/uas) - 
 - [kazanaruishere-max/LUCID](https://github.com/kazanaruishere-max/LUCID) - 
 - [kazanaruishere-max/HookLens](https://github.com/kazanaruishere-max/HookLens) - HookLens is a high-performance, real-time visual webhook debugger and AI-powered analyzer. It intercepts, visualizes, and replays webhook payloads with zero-latency, featuring automated security validation and AI diagnostics for seamless integration debugging.
 - [kazanaruishere-max/AkuBelajar](https://github.com/kazanaruishere-max/AkuBelajar) - 
