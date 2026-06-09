@@ -159,32 +159,23 @@
 <details open>
   <summary><b>Security & Pentesting Tools</b></summary>
   <br/>
-  <b>🖼️ With Logos</b>
-  <br/><br/>
   <p align="left">
-    <a href="https://www.kali.org" target="_blank" title="Kali Linux"><img src="https://img.shields.io/badge/%20-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://www.ubuntu.com" target="_blank" title="Ubuntu"><img src="https://img.shields.io/badge/%20-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank" title="WSL"><img src="https://img.shields.io/badge/%20-0A7FF?style=for-the-badge&logo=windows&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://github.com/ffuf/ffuf" target="_blank" title="FFUF"><img src="https://img.shields.io/badge/%20-000?style=for-the-badge&logo=github&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://github.com/projectdiscovery/nuclei" target="_blank" title="Nuclei"><img src="https://img.shields.io/badge/%20-111?style=for-the-badge&logo=github&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://sqlmap.org" target="_blank" title="sqlmap"><img src="https://img.shields.io/badge/%20-000?style=for-the-badge&logo=python&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" title="Hydra"><img src="https://img.shields.io/badge/%20-000?style=for-the-badge&logo=github&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://wpscan.com" target="_blank" title="WPScan"><img src="https://img.shields.io/badge/%20-000?style=for-the-badge&logo=wordpress&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://www.torproject.org" target="_blank" title="Tor"><img src="https://img.shields.io/badge/%20-7D4698?style=for-the-badge&logo=torproject&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://curl.se" target="_blank" title="cURL"><img src="https://img.shields.io/badge/%20-073551?style=for-the-badge&logo=curl&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://github.com/projectdiscovery/subfinder" target="_blank" title="Subfinder"><img src="https://img.shields.io/badge/%20-000?style=for-the-badge&logo=github&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://www.gnu.org/software/grep/" target="_blank" title="grep"><img src="https://img.shields.io/badge/%20-000?style=for-the-badge&logo=gnu&logoColor=white" height="36" /></a>&nbsp;
-    <a href="https://jqlang.github.io/jq/" target="_blank" title="jq"><img src="https://img.shields.io/badge/%20-000?style=for-the-badge&logo=jq&logoColor=white" height="36" /></a>
-  </p>
-
-  <br/><br/>
-
-  <b>📝 No Logo Available</b>
-  <br/><br/>
-  <p align="left">
+    <a href="https://www.kali.org" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="28" /></a>&nbsp;
+    <a href="https://www.ubuntu.com" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="28" /></a>&nbsp;
+    <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank"><img src="https://img.shields.io/badge/WSL-0A7FF?style=for-the-badge&logo=windows&logoColor=white" height="28" /></a>&nbsp;
     <a href="https://nmap.org" target="_blank"><img src="https://img.shields.io/badge/Nmap-0E8238?style=for-the-badge" height="28" /></a>&nbsp;
+    <a href="https://github.com/ffuf/ffuf" target="_blank"><img src="https://img.shields.io/badge/FFUF-000?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>&nbsp;
+    <a href="https://github.com/projectdiscovery/nuclei" target="_blank"><img src="https://img.shields.io/badge/Nuclei-111?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>&nbsp;
+    <a href="https://sqlmap.org" target="_blank"><img src="https://img.shields.io/badge/sqlmap-000?style=for-the-badge&logo=python&logoColor=white" height="28" /></a>&nbsp;
+    <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank"><img src="https://img.shields.io/badge/Hydra-000?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>&nbsp;
+    <a href="https://wpscan.com" target="_blank"><img src="https://img.shields.io/badge/WPScan-000?style=for-the-badge&logo=wordpress&logoColor=white" height="28" /></a>&nbsp;
+    <a href="https://www.torproject.org" target="_blank"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" height="28" /></a>&nbsp;
     <a href="https://proxychains.sourceforge.net" target="_blank"><img src="https://img.shields.io/badge/ProxyChains-000?style=for-the-badge" height="28" /></a>&nbsp;
+    <a href="https://curl.se" target="_blank"><img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" height="28" /></a>&nbsp;
+    <a href="https://github.com/projectdiscovery/subfinder" target="_blank"><img src="https://img.shields.io/badge/Subfinder-000?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>&nbsp;
     <a href="https://www.isc.org/bind/" target="_blank"><img src="https://img.shields.io/badge/Dig-003366?style=for-the-badge" height="28" /></a>&nbsp;
+    <a href="https://www.gnu.org/software/grep/" target="_blank"><img src="https://img.shields.io/badge/grep-000?style=for-the-badge&logo=gnu&logoColor=white" height="28" /></a>&nbsp;
+    <a href="https://jqlang.github.io/jq/" target="_blank"><img src="https://img.shields.io/badge/jq-000?style=for-the-badge&logo=jq&logoColor=white" height="28" /></a>&nbsp;
     <a href="https://www.nano-editor.org" target="_blank"><img src="https://img.shields.io/badge/nano-4A90D9?style=for-the-badge" height="28" /></a>
   </p>
 </details>
