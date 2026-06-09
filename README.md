@@ -131,8 +131,7 @@
     <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" /></a>&nbsp;
     <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" /></a>&nbsp;
     <a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" /></a>&nbsp;
-    <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" /></a>&nbsp;
-    <a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="40" height="40" /></a>
+    <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" /></a>
   </p>
 </details>
 
