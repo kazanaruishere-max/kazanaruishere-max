@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:6e40c9,100:0d1117&text=KAZANARU&reversal=false&section=header&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Code%20·%20Design%20·%20Innovate&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:6e40c9,100:0d1117&text=KAZANARU&reversal=false&section=header&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Come.%20Conquer.%20Leave%20a%20Legacy&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner" />
 </p>
 
 
@@ -9,9 +9,6 @@
   </a>
   <a href="https://www.twitch.tv/kazanaruishere" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitch/status/kazanaruishere?logo=twitch&style=for-the-badge&color=6e40c9&labelColor=1c1917&label=TWITCH+STATUS" />
-  </a>
-  <a href="https://youtube.com/@kazanaruishere" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC000000000000000?logo=youtube&style=for-the-badge&color=6e40c9&labelColor=1c1917&label=YOUTUBE" />
   </a>
 </p>
 
@@ -27,7 +24,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/kazanaruishere" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/azka-syahirull-a647993b6/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
@@ -41,45 +38,25 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.youtube.com/@kazanaruishere" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="http://www.instagram.com/kazanaruishere" target="_blank" rel="noreferrer">
+  <a href="http://www.instagram.com/kazanaru" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.tiktok.com/@kazanaruishere" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://discord.gg/kazanaruishere" target="_blank" rel="noreferrer">
+  <a href="https://discord.gg/kazanaru" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://kazanaruishere.dev" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" />
-    </picture>
-  </a>
 </p>
 
 ---
 
+<!--
 ### GitHub Stats
 
 <p align="center">
@@ -107,6 +84,7 @@
     <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kazanaruishere-max&theme=default&hide_border=true&area=true" alt="Activity Graph" />
   </picture>
 </p>
+-->
 
 ---
 
@@ -217,10 +195,8 @@
 
 ### 📫 How to reach me
 
-- **Website** : [https://kazanaruishere.dev](https://kazanaruishere.dev)
-- **YouTube** : [https://youtube.com/@kazanaruishere](https://youtube.com/@kazanaruishere)
 - **Twitter / X** : [https://x.com/kazanaruishere](https://x.com/kazanaruishere)
-- **Instagram** : [https://instagram.com/kazanaruishere](https://instagram.com/kazanaruishere)
+- **Instagram** : [https://instagram.com/kazanaru](https://instagram.com/kazanaru)
 - **Email** : [hello@kazanaruishere.dev](mailto:hello@kazanaruishere.dev)
 
 <p align="center">
