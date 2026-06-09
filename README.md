@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:6e40c9,100:0d1117&text=KAZANA%20RUIS%20HERE&reversal=false&section=header&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Code%20·%20Design%20·%20Innovate&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner" />
 </p>
 
-<!-- STATUS BADGE -->
+
 <p align="center">
   <a href="https://github.com/kazanaruishere-max" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/kazanaruishere-max?logo=github&style=for-the-badge&color=6e40c9&labelColor=1c1917&label=FOLLOWERS" />
@@ -112,35 +112,35 @@
 
 ### 👷 Currently Working On
 
-- [kazanaruishere-max/project-alpha](https://github.com/kazanaruishere-max/project-alpha) - Next-gen web application framework
-- [kazanaruishere-max/design-system](https://github.com/kazanaruishere-max/design-system) - Accessible component library with dark mode
-- [kazanaruishere-max/dev-tools](https://github.com/kazanaruishere-max/dev-tools) - CLI productivity toolkit for developers
-- [kazanaruishere-max/ai-chat-ui](https://github.com/kazanaruishere-max/ai-chat-ui) - Real-time AI chat interface with streaming
-- [kazanaruishere-max/api-starter](https://github.com/kazanaruishere-max/api-starter) - Production-ready REST API boilerplate
+- [kazanaruishere-max/uas](https://github.com/kazanaruishere-max/uas) - 
+- [kazanaruishere-max/SafeWallet](https://github.com/kazanaruishere-max/SafeWallet) - 
+- [kazanaruishere-max/LUCID](https://github.com/kazanaruishere-max/LUCID) - 
+- [kazanaruishere-max/HookLens](https://github.com/kazanaruishere-max/HookLens) - HookLens is a high-performance, real-time visual webhook debugger and AI-powered analyzer. It intercepts, visualizes, and replays webhook payloads with zero-latency, featuring automated security validation and AI diagnostics for seamless integration debugging.
+- [kazanaruishere-max/AkuBelajar](https://github.com/kazanaruishere-max/AkuBelajar) - 
 
 ### 🌱 Latest Projects
 
-- [kazanaruishere-max/portfolio](https://github.com/kazanaruishere-max/portfolio) - Personal portfolio with 2.5D scroll effects
-- [kazanaruishere-max/linux-benchmarks](https://github.com/kazanaruishere-max/linux-benchmarks) - Performance benchmarking suite
-- [kazanaruishere-max/newsletter](https://github.com/kazanaruishere-max/newsletter) - Minimal newsletter template
-- [kazanaruishere-max/dotfiles](https://github.com/kazanaruishere-max/dotfiles) - My personal dotfiles and configs
-- [kazanaruishere-max/notes-app](https://github.com/kazanaruishere-max/notes-app) - Markdown notes with sync
+- [kazanaruishere-max/uas](https://github.com/kazanaruishere-max/uas) - 
+- [kazanaruishere-max/LUCID](https://github.com/kazanaruishere-max/LUCID) - 
+- [kazanaruishere-max/AkuBelajar](https://github.com/kazanaruishere-max/AkuBelajar) - 
+- [kazanaruishere-max/yolo](https://github.com/kazanaruishere-max/yolo) - 
+- [kazanaruishere-max/PSSM](https://github.com/kazanaruishere-max/PSSM) - 
 
 ### 🔨 Recent Pull Requests
 
-- [feat: Add dark mode support](https://github.com/kazanaruishere-max/design-system/pull/12) on [kazanaruishere-max/design-system](https://github.com/kazanaruishere-max/design-system)
-- [fix: Resolve memory leak in WebSocket](https://github.com/kazanaruishere-max/ai-chat-ui/pull/8) on [kazanaruishere-max/ai-chat-ui](https://github.com/kazanaruishere-max/ai-chat-ui)
-- [chore: Update dependencies](https://github.com/kazanaruishere-max/project-alpha/pull/45) on [kazanaruishere-max/project-alpha](https://github.com/kazanaruishere-max/project-alpha)
-- [docs: Add API documentation](https://github.com/kazanaruishere-max/api-starter/pull/3) on [kazanaruishere-max/api-starter](https://github.com/kazanaruishere-max/api-starter)
-- [refactor: Migrate to TypeScript](https://github.com/kazanaruishere-max/dev-tools/pull/17) on [kazanaruishere-max/dev-tools](https://github.com/kazanaruishere-max/dev-tools)
+- [Cloudrun](https://github.com/kazanaruishere-max/SafeWallet/pull/61) on [kazanaruishere-max/SafeWallet](https://github.com/kazanaruishere-max/SafeWallet)
+- [Add print statement to output &#39;dawg&#39;](https://github.com/kazanaruishere-max/yolo/pull/1) on [kazanaruishere-max/yolo](https://github.com/kazanaruishere-max/yolo)
+- [Fix formatting issues in README.md](https://github.com/kazanaruishere-max/SafeWallet/pull/30) on [kazanaruishere-max/SafeWallet](https://github.com/kazanaruishere-max/SafeWallet)
+- [Update README with new badge information](https://github.com/kazanaruishere-max/SafeWallet/pull/29) on [kazanaruishere-max/SafeWallet](https://github.com/kazanaruishere-max/SafeWallet)
+- [docs: minor update for yolo badge](https://github.com/kazanaruishere-max/SafeWallet/pull/28) on [kazanaruishere-max/SafeWallet](https://github.com/kazanaruishere-max/SafeWallet)
 
 ### ⭐ Recent Stars
 
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework for Production
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Workflow automation
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500&#43; agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
+- [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) - 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.
 
 ---
 
