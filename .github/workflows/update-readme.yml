@@ -21,9 +21,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate README.md from template
-        uses: muesli/readme-scribe@v1
+        uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: README.gtpl
           writeTo: README.md

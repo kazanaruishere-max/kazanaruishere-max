@@ -19,7 +19,7 @@ jobs:
       - name: Generate metrics SVG
         uses: lowlighter/metrics@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           filename: github-metrics.svg
           base: header, activity, community, repositories
           config_timezone: Asia/Jakarta
