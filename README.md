@@ -203,4 +203,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6e40c9,100:0d1117&section=footer" width="100%" alt="footer" />
 </p>
-
