@@ -1,47 +1,51 @@
-name: Generate GitHub Metrics
-
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-
+  push: {branches: ["master", "main"]}
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate metrics SVG
-        uses: lowlighter/metrics@v1
+      - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-          filename: github-metrics.svg
-          base: header, activity, community, repositories
-          config_timezone: Asia/Jakarta
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: kazanaruishere-max
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Bangkok
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_languages_indepth: yes
-          plugin_followup: yes
-          plugin_lines: yes
-          plugin_topics: yes
-          plugin_topics_mode: starred
-          plugin_topics_limit: 10
-
-      - name: Commit and push metrics
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update GitHub metrics"
-          commit_user_name: "kazanaruishere-bot"
-          commit_user_email: "bot@kazanaruishere.dev"
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_stars: yes
+          plugin_stars_limit: 4
