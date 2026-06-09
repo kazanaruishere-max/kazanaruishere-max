@@ -110,6 +110,54 @@
 
 ---
 
+### 🚀 Tech Stack
+
+<details open>
+  <summary><b>Languages</b></summary>
+  <p align="left">
+    <a href="https://go.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" /></a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" /></a>&nbsp;
+    <a href="https://godotengine.org" target="_blank"><img src="https://skillicons.dev/icons?i=godot" width="40" height="40" /></a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" /></a>
+  </p>
+</details>
+
+<details open>
+  <summary><b>Runtimes & Frameworks</b></summary>
+  <p align="left">
+    <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" /></a>&nbsp;
+    <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" /></a>&nbsp;
+    <a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" /></a>&nbsp;
+    <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="40" height="40" /></a>
+  </p>
+</details>
+
+<details open>
+  <summary><b>Databases & Storage</b></summary>
+  <p align="left">
+    <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.sqlite.org" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" /></a>&nbsp;
+    <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" /></a>&nbsp;
+    <a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" /></a>
+  </p>
+</details>
+
+<details open>
+  <summary><b>DevOps & Hosting</b></summary>
+  <p align="left">
+    <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" /></a>&nbsp;
+    <a href="https://snyk.io" target="_blank"><img src="https://skillicons.dev/icons?i=snyk" width="40" height="40" /></a>&nbsp;
+    <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" /></a>&nbsp;
+    <a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" /></a>
+  </p>
+</details>
+
+---
+
 ### 👷 Currently Working On
 
 - [kazanaruishere-max/uas](https://github.com/kazanaruishere-max/uas) - 
@@ -171,6 +219,21 @@
   picture img:hover {
     transform: translateY(-4px);
     box-shadow: 0 8px 30px rgba(110, 64, 201, 0.2);
+  }
+  details summary {
+    cursor: pointer;
+    font-weight: 600;
+    margin: 12px 0 8px;
+  }
+  details summary:hover {
+    color: #6e40c9;
+  }
+  details a img {
+    transition: transform 0.3s ease, filter 0.3s ease, box-shadow 0.3s ease;
+  }
+  details a img:hover {
+    transform: translateY(-5px) scale(1.15);
+    filter: drop-shadow(0 0 8px rgba(110, 64, 201, 0.6));
   }
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after {
