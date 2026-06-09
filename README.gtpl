@@ -7,9 +7,6 @@
   <a href="https://github.com/kazanaruishere-max" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/kazanaruishere-max?logo=github&style=for-the-badge&color=6e40c9&labelColor=1c1917&label=FOLLOWERS" />
   </a>
-  <a href="https://www.twitch.tv/kazanaruishere" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitch/status/kazanaruishere?logo=twitch&style=for-the-badge&color=6e40c9&labelColor=1c1917&label=TWITCH+STATUS" />
-  </a>
 </p>
 
 ---
