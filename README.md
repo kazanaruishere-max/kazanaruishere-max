@@ -56,35 +56,7 @@
 
 ---
 
-<!--
-### GitHub Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kazanaruishere-max&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&icon_color=6e40c9&title_color=6e40c9&text_color=c9d1d9&include_all_commits=true&hide=contribs&rank_icon=percentile">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kazanaruishere-max&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kazanaruishere-max&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazanaruishere-max&layout=compact&hide_border=true" alt="Top Languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kazanaruishere-max&hide_border=true&theme=radical&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakNum=c9d1d9&sideNums=c9d1d9">
-    <img width="50%" src="https://streak-stats.demolab.com?user=kazanaruishere-max&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kazanaruishere-max&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Activity&line=6e40c9&point=6e40c9&area_color=6e40c9">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kazanaruishere-max&theme=default&hide_border=true&area=true" alt="Activity Graph" />
-  </picture>
-</p>
--->
 
 ---
 
