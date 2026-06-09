@@ -156,6 +156,29 @@
   </p>
 </details>
 
+<details open>
+  <summary><b>Security & Pentesting Tools</b></summary>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/WSL-0A7FF?logo=windows&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/Nmap-0E8238?logo=image&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/FFUF-000?logo=github&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/Nuclei-111?logo=github&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/sqlmap-000?logo=python&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/Hydra-000?logo=github&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/WPScan-000?logo=wordpress&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/Tor-7D4698?logo=tor-project&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/ProxyChains-000?style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/cURL-073551?logo=curl&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/Subfinder-000?logo=github&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/Dig_(BIND)-003366?logo=bind&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/grep-000?logo=gnu&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/jq-000?logo=jq&logoColor=white&style=flat" height="28" />&nbsp;
+    <img src="https://img.shields.io/badge/nano-4A90D9?logo=nano&logoColor=white&style=flat" height="28" />
+  </p>
+</details>
+
 ---
 
 ### 👷 Currently Working On
