@@ -1,0 +1,47 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
+          config_timezone: Asia/Jakarta
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_threshold: 0%
+          plugin_languages_indepth: yes
+          plugin_followup: yes
+          plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_mode: starred
+          plugin_topics_limit: 10
+
+      - name: Commit and push metrics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub metrics"
+          commit_user_name: "kazanaruishere-bot"
+          commit_user_email: "bot@kazanaruishere.dev"

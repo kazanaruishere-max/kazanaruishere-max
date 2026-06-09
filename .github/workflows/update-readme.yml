@@ -1,0 +1,36 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every 6 hours — adjust as needed
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate README.md from template
+        uses: muesli/readme-scribe@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          template: README.gtpl
+          writeTo: README.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update profile README"
+          commit_user_name: "kazanaruishere-bot"
+          commit_user_email: "bot@kazanaruishere.dev"
