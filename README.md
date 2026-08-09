@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:6e40c9,100:0d1117&text=KAZANARU&reversal=false&section=header&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=Come.%20Conquer.%20Leave%20a%20Legacy&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="banner" />
+  <img src="https://raw.githubusercontent.com/kazanaruishere-max/kazanaruishere-max/main/banner.svg" width="100%" alt="banner" />
 </p>
 
 
@@ -100,7 +100,3 @@
 - **Twitter / X** : [https://x.com/kazanaruishere](https://x.com/kazanaruishere)
 - **Instagram** : [https://instagram.com/kazanaru](https://instagram.com/kazanaru)
 - **Email** : [hello@kazanaruishere.dev](mailto:hello@kazanaruishere.dev)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:6e40c9,100:0d1117&section=footer" width="100%" alt="footer" />
-</p>
