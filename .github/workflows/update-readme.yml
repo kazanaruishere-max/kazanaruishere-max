@@ -2,16 +2,24 @@ name: Update Profile README
 
 on:
   schedule:
-    # Runs every 6 hours — adjust as needed
-    - cron: "0 */6 * * *"
+    # Runs daily at 06:00 UTC
+    - cron: "0 6 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - README.gtpl
+      - .github/workflows/update-readme.yml
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     permissions:
       contents: write
@@ -21,9 +29,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate README.md from template
-        uses: muesli/readme-scribe@master
+        uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           template: README.gtpl
           writeTo: README.md
@@ -32,5 +40,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: auto-update profile README"
-          commit_user_name: "kazanaruishere-bot"
-          commit_user_email: "bot@kazanaruishere.dev"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
