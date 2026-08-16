@@ -96,7 +96,4 @@
 ---
 
 ### 📫 How to reach me
-
-- **Twitter / X** : [https://x.com/kazanaruishere](https://x.com/kazanaruishere)
 - **Instagram** : [https://instagram.com/kazanaru](https://instagram.com/kazanaru)
-- **Email** : [hello@kazanaruishere.dev](mailto:hello@kazanaruishere.dev)
