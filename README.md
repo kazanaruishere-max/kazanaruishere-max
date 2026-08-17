@@ -63,19 +63,19 @@
 
 ### 👷 Currently Working On
 
-- [acedar067-art/agate-game](https://github.com/acedar067-art/agate-game) - 
+- [kazanaruishere-max/Portofolio-Kazanaru](https://github.com/kazanaruishere-max/Portofolio-Kazanaru) - 
+- [IDARRRZ/agate-game](https://github.com/IDARRRZ/agate-game) - 
 - [kazanaruishere-max/SEITH](https://github.com/kazanaruishere-max/SEITH) - SEITH ADALAH AI YANG DIKHUSUSKAN TRADING MARKET MAJOR PAIRS, COMMODITY,CRYPTOCURRENCY
 - [kazanaruishere-max/ALGORION](https://github.com/kazanaruishere-max/ALGORION) - 
 - [kazanaruishere-max/Listfy](https://github.com/kazanaruishere-max/Listfy) - AI-powered listing description generator for online sellers. Generate SEO-optimized product descriptions for Shopee, Tokopedia, eBay, and more in seconds.
-- [kazanaruishere-max/SafeWallet](https://github.com/kazanaruishere-max/SafeWallet) - SafeWallet adalah platform berbasis AI yang dirancang sebagai antitesis terhadap epidemi investasi bodong, kebrutalan Pinjaman Online (Pinjol), dan rendahnya literasi finansial di Indonesia. Platform ini dirancang dengan pendekatan keamanan tinggi (Zero-Trust).
 
 ### 🌱 Latest Projects
 
+- [kazanaruishere-max/Portofolio-Kazanaru](https://github.com/kazanaruishere-max/Portofolio-Kazanaru) - 
 - [kazanaruishere-max/SEITH](https://github.com/kazanaruishere-max/SEITH) - SEITH ADALAH AI YANG DIKHUSUSKAN TRADING MARKET MAJOR PAIRS, COMMODITY,CRYPTOCURRENCY
 - [kazanaruishere-max/ALGORION](https://github.com/kazanaruishere-max/ALGORION) - 
 - [kazanaruishere-max/Listfy](https://github.com/kazanaruishere-max/Listfy) - AI-powered listing description generator for online sellers. Generate SEO-optimized product descriptions for Shopee, Tokopedia, eBay, and more in seconds.
 - [kazanaruishere-max/uas](https://github.com/kazanaruishere-max/uas) - 
-- [kazanaruishere-max/LUCID](https://github.com/kazanaruishere-max/LUCID) - 
 
 ### 🔨 Recent Pull Requests
 
@@ -87,13 +87,16 @@
 
 ### ⭐ Recent Stars
 
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - &#34;Vibe-Trading: Your Personal Trading Agent&#34;
+- [skfolio/skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
+- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it&#39;s all there. 
+- [matmadness/HumanShaders](https://github.com/matmadness/HumanShaders) - A set of shaders for Godot to create realistic humanoid characters
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-- [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
-- [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps &amp; agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 
 ---
 
 ### 📫 How to reach me
+
+- **Twitter / X** : [https://x.com/kazanaruishere](https://x.com/kazanaruishere)
 - **Instagram** : [https://instagram.com/kazanaru](https://instagram.com/kazanaru)
+- **Email** : [hello@kazanaruishere.dev](mailto:hello@kazanaruishere.dev)
