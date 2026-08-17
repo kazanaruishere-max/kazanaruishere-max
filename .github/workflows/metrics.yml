@@ -13,14 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - name: Diagnostic token repo access
-        run: |
-          echo "== METRICS_TOKEN plain list =="
-          curl -s -H "Authorization: token ${{ secrets.METRICS_TOKEN }}" "https://api.github.com/users/kazanaruishere-max/repos?per_page=5&sort=updated" | jq -r 'if type=="array" then "count_visible="+((length|tostring))+" names="+([.[].name]|join(",")) else .message end'
-          echo "== METRICS_TOKEN owner affiliation =="
-          curl -s -H "Authorization: token ${{ secrets.METRICS_TOKEN }}" "https://api.github.com/users/kazanaruishere-max/repos?per_page=5&affiliation=owner" | jq -r 'if type=="array" then "count="+(length|tostring) else .message end'
-          echo "== GITHUB_TOKEN plain list =="
-          curl -s -H "Authorization: token ${{ github.token }}" "https://api.github.com/users/kazanaruishere-max/repos?per_page=5&sort=updated" | jq -r 'if type=="array" then "count_visible="+((length|tostring))+" names="+([.[].name]|join(",")) else .message end'
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
