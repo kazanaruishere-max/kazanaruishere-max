@@ -63,19 +63,19 @@
 
 ### 👷 Currently Working On
 
-- [kazanaruishere-max/Portofolio-Kazanaru](https://github.com/kazanaruishere-max/Portofolio-Kazanaru) - 
+- [kazanaruishere-max/SEITH-TRADER](https://github.com/kazanaruishere-max/SEITH-TRADER) - 
+- [kazanaruishere-max/Intern-Search](https://github.com/kazanaruishere-max/Intern-Search) - Semi-autonomous intern/PKL search tool with CV-fit scoring, multi-source scraping (Google Maps / Glints / LinkedIn), auto-draft WFA for candidates &gt;10 km, and a human-in-the-loop design.
 - [IDARRRZ/agate-game](https://github.com/IDARRRZ/agate-game) - 
+- [kazanaruishere-max/Portofolio-Kazanaru](https://github.com/kazanaruishere-max/Portofolio-Kazanaru) - 
 - [kazanaruishere-max/SEITH](https://github.com/kazanaruishere-max/SEITH) - SEITH ADALAH AI YANG DIKHUSUSKAN TRADING MARKET MAJOR PAIRS, COMMODITY,CRYPTOCURRENCY
-- [kazanaruishere-max/ALGORION](https://github.com/kazanaruishere-max/ALGORION) - 
-- [kazanaruishere-max/Listfy](https://github.com/kazanaruishere-max/Listfy) - AI-powered listing description generator for online sellers. Generate SEO-optimized product descriptions for Shopee, Tokopedia, eBay, and more in seconds.
 
 ### 🌱 Latest Projects
 
+- [kazanaruishere-max/SEITH-TRADER](https://github.com/kazanaruishere-max/SEITH-TRADER) - 
+- [kazanaruishere-max/Intern-Search](https://github.com/kazanaruishere-max/Intern-Search) - Semi-autonomous intern/PKL search tool with CV-fit scoring, multi-source scraping (Google Maps / Glints / LinkedIn), auto-draft WFA for candidates &gt;10 km, and a human-in-the-loop design.
 - [kazanaruishere-max/Portofolio-Kazanaru](https://github.com/kazanaruishere-max/Portofolio-Kazanaru) - 
 - [kazanaruishere-max/SEITH](https://github.com/kazanaruishere-max/SEITH) - SEITH ADALAH AI YANG DIKHUSUSKAN TRADING MARKET MAJOR PAIRS, COMMODITY,CRYPTOCURRENCY
 - [kazanaruishere-max/ALGORION](https://github.com/kazanaruishere-max/ALGORION) - 
-- [kazanaruishere-max/Listfy](https://github.com/kazanaruishere-max/Listfy) - AI-powered listing description generator for online sellers. Generate SEO-optimized product descriptions for Shopee, Tokopedia, eBay, and more in seconds.
-- [kazanaruishere-max/uas](https://github.com/kazanaruishere-max/uas) - 
 
 ### 🔨 Recent Pull Requests
 
@@ -87,11 +87,11 @@
 
 ### ⭐ Recent Stars
 
-- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - &#34;Vibe-Trading: Your Personal Trading Agent&#34;
-- [skfolio/skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
-- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it&#39;s all there. 
-- [matmadness/HumanShaders](https://github.com/matmadness/HumanShaders) - A set of shaders for Godot to create realistic humanoid characters
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
+- [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+- [arvchahal/kalshi-rs](https://github.com/arvchahal/kalshi-rs) - A fully supported kalshi sdk integrating over 50 kalshi api endpoints with websocket support
+- [nkaz001/hftbacktest](https://github.com/nkaz001/hftbacktest) - Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit
+- [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
+- [kazanaruishere-max/SEITH-TRADER](https://github.com/kazanaruishere-max/SEITH-TRADER) - 
 
 ---
 
