@@ -63,35 +63,35 @@
 
 ### 👷 Currently Working On
 
+- [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
+- [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
 - [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL) - 
 - [kazanaruishere-max/Proxy-Opencode](https://github.com/kazanaruishere-max/Proxy-Opencode) - 
 - [kazanaruishere-max/Intern-Search](https://github.com/kazanaruishere-max/Intern-Search) - Semi-autonomous intern/PKL search tool with CV-fit scoring, multi-source scraping (Google Maps / Glints / LinkedIn), auto-draft WFA for candidates &gt;10 km, and a human-in-the-loop design.
-- [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
-- [IDARRRZ/agate-game](https://github.com/IDARRRZ/agate-game) - 
 
 ### 🌱 Latest Projects
 
+- [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
 - [kazanaruishere-max/Proxy-Opencode](https://github.com/kazanaruishere-max/Proxy-Opencode) - 
 - [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
 - [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL) - 
 - [kazanaruishere-max/Intern-Search](https://github.com/kazanaruishere-max/Intern-Search) - Semi-autonomous intern/PKL search tool with CV-fit scoring, multi-source scraping (Google Maps / Glints / LinkedIn), auto-draft WFA for candidates &gt;10 km, and a human-in-the-loop design.
-- [kazanaruishere-max/Portofolio-Kazanaru](https://github.com/kazanaruishere-max/Portofolio-Kazanaru) - 
 
 ### 🔨 Recent Pull Requests
 
-- [Gate-A iterasi: sensitivitas biaya (H2) &#43; mean-reversion (H3) — verdict penutup jalur news-trading](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL/pull/2) on [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL)
-- [Gate-A: backtest walk-forward strategi news &#43; hasil riil (VERDICT: NO-GO continuation)](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL/pull/1) on [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL)
-- [Cloudrun](https://github.com/kazanaruishere-max/SafeWallet/pull/61) on [kazanaruishere-max/SafeWallet](https://github.com/kazanaruishere-max/SafeWallet)
-- [Add print statement to output &#39;dawg&#39;](https://github.com/kazanaruishere-max/yolo/pull/1) on [kazanaruishere-max/yolo](https://github.com/kazanaruishere-max/yolo)
-- [Fix formatting issues in README.md](https://github.com/kazanaruishere-max/SafeWallet/pull/30) on [kazanaruishere-max/SafeWallet](https://github.com/kazanaruishere-max/SafeWallet)
+- [chore(handoff): phase-07 Top5 Leak &#43; Jupyter 20 ticker Plotly isolated -- 00&#43;01-03 fokus dokumen](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/32) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [docs(research): planning Money Leak Radar 100 &#43; MI 20y lens &#43; data plan Sectors 3 REQUIRED](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/31) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [chore(handoff): phase-06 Freeze Kit -- 00&#43;01-04 100% gap-free](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/30) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [fix(phase-05): web beforeEach typecheck wrap &#43; gitignore tsbuildinfo/uv.lock/pnpm-lock (04 verify)](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/29) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [feat(phase-05): Hybrid Delivery Axum API 7 routes &#43; CLI &#43; Dossier &#43; Web Bloomberg (T1&#43;T2)](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/28) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
 
 ### ⭐ Recent Stars
 
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [nazirlouis/ada_local](https://github.com/nazirlouis/ada_local) - 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-- [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-- [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) - Open Frontier Intelligence
+- [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) - Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
+- [experientiallabs/experiential](https://github.com/experientiallabs/experiential) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000&#43; marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
+- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
 ---
 
