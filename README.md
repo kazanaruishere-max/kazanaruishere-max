@@ -63,11 +63,11 @@
 
 ### 👷 Currently Working On
 
-- [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
 - [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
+- [IDARRRZ/agate-game](https://github.com/IDARRRZ/agate-game) - 
+- [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
 - [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL) - 
 - [kazanaruishere-max/Proxy-Opencode](https://github.com/kazanaruishere-max/Proxy-Opencode) - 
-- [kazanaruishere-max/Intern-Search](https://github.com/kazanaruishere-max/Intern-Search) - Semi-autonomous intern/PKL search tool with CV-fit scoring, multi-source scraping (Google Maps / Glints / LinkedIn), auto-draft WFA for candidates &gt;10 km, and a human-in-the-loop design.
 
 ### 🌱 Latest Projects
 
@@ -79,19 +79,19 @@
 
 ### 🔨 Recent Pull Requests
 
+- [chore(handoff): phase-08 accountability &#43; phase-09 100-backtest &#43; phase-10 web-visual docs](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/37) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [feat(analysis): wire SEITH-MARKET-IDX combo via env (T2)](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/36) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [fix(sectors-client): Authorization &#43; /v2/daily/{symbol}/ per docs (T1)](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/35) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [docs(readme): Kaza origin storytelling EN&#43;ID bilingual](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/33) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
 - [chore(handoff): phase-07 Top5 Leak &#43; Jupyter 20 ticker Plotly isolated -- 00&#43;01-03 fokus dokumen](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/32) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [docs(research): planning Money Leak Radar 100 &#43; MI 20y lens &#43; data plan Sectors 3 REQUIRED](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/31) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [chore(handoff): phase-06 Freeze Kit -- 00&#43;01-04 100% gap-free](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/30) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [fix(phase-05): web beforeEach typecheck wrap &#43; gitignore tsbuildinfo/uv.lock/pnpm-lock (04 verify)](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/29) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [feat(phase-05): Hybrid Delivery Axum API 7 routes &#43; CLI &#43; Dossier &#43; Web Bloomberg (T1&#43;T2)](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/28) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
 
 ### ⭐ Recent Stars
 
-- [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) - Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-- [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
-- [experientiallabs/experiential](https://github.com/experientiallabs/experiential) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000&#43; marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
-- [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump 
+- [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
+- [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks.
 
 ---
 
