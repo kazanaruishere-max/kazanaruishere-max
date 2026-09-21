@@ -63,9 +63,9 @@
 
 ### 👷 Currently Working On
 
-- [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
 - [IDARRRZ/agate-game](https://github.com/IDARRRZ/agate-game) - 
 - [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
+- [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
 - [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL) - 
 - [kazanaruishere-max/Proxy-Opencode](https://github.com/kazanaruishere-max/Proxy-Opencode) - 
 
@@ -79,19 +79,19 @@
 
 ### 🔨 Recent Pull Requests
 
-- [chore(handoff): phase-08 accountability &#43; phase-09 100-backtest &#43; phase-10 web-visual docs](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/37) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [feat(analysis): wire SEITH-MARKET-IDX combo via env (T2)](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/36) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [fix(sectors-client): Authorization &#43; /v2/daily/{symbol}/ per docs (T1)](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/35) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [docs(readme): Kaza origin storytelling EN&#43;ID bilingual](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/33) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [chore(handoff): phase-07 Top5 Leak &#43; Jupyter 20 ticker Plotly isolated -- 00&#43;01-03 fokus dokumen](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/32) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [docs: add 10 critical engineering Q&amp;As and vendor repository links in README](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/53) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [docs: condense 3-minute video script to 299 words for ~2m50s ElevenLabs timing](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/52) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [docs: add 3-minute video demo script and storyboard for elevenlabs](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/51) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [fix(web): fallback to nested anomaly z and flag in RankingTable](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/50) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [feat(web): ssot displayScore, remove hardcode caps, and qualify docs](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/49) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
 
 ### ⭐ Recent Stars
 
-- [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -                            2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump 
-- [LLMQuant/awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
-- [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP &#43; hooks.
+- [HermanTrading/aw_trades_-model](https://github.com/HermanTrading/aw_trades_-model) - 
+- [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
+- [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
+- [alpacahq/alpaca-py](https://github.com/alpacahq/alpaca-py) - The Official Python SDK for Alpaca API
 
 ---
 
