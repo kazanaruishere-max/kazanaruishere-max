@@ -63,19 +63,19 @@
 
 ### 👷 Currently Working On
 
+- [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
+- [kazanaruishere-max/Test-soal-LKS-AI-ENGINEER](https://github.com/kazanaruishere-max/Test-soal-LKS-AI-ENGINEER) - 
 - [IDARRRZ/agate-game](https://github.com/IDARRRZ/agate-game) - 
 - [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
-- [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
 - [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL) - 
-- [kazanaruishere-max/Proxy-Opencode](https://github.com/kazanaruishere-max/Proxy-Opencode) - 
 
 ### 🌱 Latest Projects
 
+- [kazanaruishere-max/SEITH-XEIR](https://github.com/kazanaruishere-max/SEITH-XEIR) - 
+- [kazanaruishere-max/Test-soal-LKS-AI-ENGINEER](https://github.com/kazanaruishere-max/Test-soal-LKS-AI-ENGINEER) - 
 - [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
 - [kazanaruishere-max/Proxy-Opencode](https://github.com/kazanaruishere-max/Proxy-Opencode) - 
 - [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
-- [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL) - 
-- [kazanaruishere-max/Intern-Search](https://github.com/kazanaruishere-max/Intern-Search) - Semi-autonomous intern/PKL search tool with CV-fit scoring, multi-source scraping (Google Maps / Glints / LinkedIn), auto-draft WFA for candidates &gt;10 km, and a human-in-the-loop design.
 
 ### 🔨 Recent Pull Requests
 
@@ -87,11 +87,11 @@
 
 ### ⭐ Recent Stars
 
-- [HermanTrading/aw_trades_-model](https://github.com/HermanTrading/aw_trades_-model) - 
-- [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
-- [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.
-- [alpacahq/alpaca-py](https://github.com/alpacahq/alpaca-py) - The Official Python SDK for Alpaca API
+- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
+- [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
+- [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) - One AI trade decision every Monad block. Jev on Kuru MON-USDC.
+- [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
+- [QuantaAlpha/QuantaAlpha](https://github.com/QuantaAlpha/QuantaAlpha) - QuantaAlpha transforms how you discover quantitative alpha factors by combining LLM intelligence with evolutionary strategies. Just describe your research direction, and watch as factors are automatically mined, evolved, and validated through self-evolving trajectories.
 
 ---
 
