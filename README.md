@@ -71,7 +71,7 @@
 
 ### 🌱 Latest Projects
 
-- [kazanaruishere-max/SEITH-XEIR](https://github.com/kazanaruishere-max/SEITH-XEIR) - 
+- [kazanaruishere-max/SEITH-WARDEN](https://github.com/kazanaruishere-max/SEITH-WARDEN) - 
 - [kazanaruishere-max/Test-soal-LKS-AI-ENGINEER](https://github.com/kazanaruishere-max/Test-soal-LKS-AI-ENGINEER) - 
 - [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
 - [kazanaruishere-max/Proxy-Opencode](https://github.com/kazanaruishere-max/Proxy-Opencode) - 
@@ -87,11 +87,11 @@
 
 ### ⭐ Recent Stars
 
-- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
-- [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
-- [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) - One AI trade decision every Monad block. Jev on Kuru MON-USDC.
-- [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
-- [QuantaAlpha/QuantaAlpha](https://github.com/QuantaAlpha/QuantaAlpha) - QuantaAlpha transforms how you discover quantitative alpha factors by combining LLM intelligence with evolutionary strategies. Just describe your research direction, and watch as factors are automatically mined, evolved, and validated through self-evolving trajectories.
+- [Wassimyounes01/qwen38-uncensored](https://github.com/Wassimyounes01/qwen38-uncensored) - Local Qwen 3.8 27B uncensored Q4_K_M &#43; harvested SYSTEM pack. Official 3.8 weights, not a 3.6 retitle.
+- [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD
+- [Omicron69/persona5-style-portfolio](https://github.com/Omicron69/persona5-style-portfolio) - Being a huge Persona Fan it inspired me to create a Persona 5 Menu Screen style portofolio website. All Rights Reserved to ATLUS
+- [composio-community/open-dot](https://github.com/composio-community/open-dot) - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI &#43; Composio.
+- [feremabraz/bloomberg-terminal](https://github.com/feremabraz/bloomberg-terminal) - Bloomberg-like terminal with AI. It uses Redis with AlphaVantage data and local simulations to avoid hitting the API too much.
 
 ---
 
