@@ -87,11 +87,11 @@
 
 ### ⭐ Recent Stars
 
-- [Wassimyounes01/qwen38-uncensored](https://github.com/Wassimyounes01/qwen38-uncensored) - Local Qwen 3.8 27B uncensored Q4_K_M &#43; harvested SYSTEM pack. Official 3.8 weights, not a 3.6 retitle.
-- [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD
-- [Omicron69/persona5-style-portfolio](https://github.com/Omicron69/persona5-style-portfolio) - Being a huge Persona Fan it inspired me to create a Persona 5 Menu Screen style portofolio website. All Rights Reserved to ATLUS
-- [composio-community/open-dot](https://github.com/composio-community/open-dot) - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI &#43; Composio.
-- [feremabraz/bloomberg-terminal](https://github.com/feremabraz/bloomberg-terminal) - Bloomberg-like terminal with AI. It uses Redis with AlphaVantage data and local simulations to avoid hitting the API too much.
+- [pavrus117/ai-os-maps-guide](https://github.com/pavrus117/ai-os-maps-guide) - Free MAPS guide: set up your own AI operating system on Claude Code (Memory, Agent, Pulse, Screen) — one prompt per layer
+- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150&#43; cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
+- [satriabahari/satriabahari.my.id](https://github.com/satriabahari/satriabahari.my.id) - 🔥 Personal website &amp; portfolio, built from scratch using Next.js, TypeScript, Tailwind CSS, SWR and Prisma.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [muttaqinsabilul/opencode-workspace](https://github.com/muttaqinsabilul/opencode-workspace) - 
 
 ---
 
