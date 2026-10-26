@@ -87,11 +87,11 @@
 
 ### ⭐ Recent Stars
 
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
+- [himself65/trade-skills](https://github.com/himself65/trade-skills) - A collection of skills for AI trading.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.
 - [pavrus117/ai-os-maps-guide](https://github.com/pavrus117/ai-os-maps-guide) - Free MAPS guide: set up your own AI operating system on Claude Code (Memory, Agent, Pulse, Screen) — one prompt per layer
-- [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150&#43; cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
-- [satriabahari/satriabahari.my.id](https://github.com/satriabahari/satriabahari.my.id) - 🔥 Personal website &amp; portfolio, built from scratch using Next.js, TypeScript, Tailwind CSS, SWR and Prisma.
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [muttaqinsabilul/opencode-workspace](https://github.com/muttaqinsabilul/opencode-workspace) - 
 
 ---
 
