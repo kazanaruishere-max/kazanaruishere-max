@@ -63,35 +63,35 @@
 
 ### 👷 Currently Working On
 
+- [kazanaruishere-max/AETERNA](https://github.com/kazanaruishere-max/AETERNA) - 
 - [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
 - [kazanaruishere-max/Test-soal-LKS-AI-ENGINEER](https://github.com/kazanaruishere-max/Test-soal-LKS-AI-ENGINEER) - 
 - [IDARRRZ/agate-game](https://github.com/IDARRRZ/agate-game) - 
 - [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
-- [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL) - 
 
 ### 🌱 Latest Projects
 
+- [kazanaruishere-max/AETERNA](https://github.com/kazanaruishere-max/AETERNA) - 
 - [kazanaruishere-max/SEITH-WARDEN](https://github.com/kazanaruishere-max/SEITH-WARDEN) - 
 - [kazanaruishere-max/Test-soal-LKS-AI-ENGINEER](https://github.com/kazanaruishere-max/Test-soal-LKS-AI-ENGINEER) - 
 - [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
 - [kazanaruishere-max/Proxy-Opencode](https://github.com/kazanaruishere-max/Proxy-Opencode) - 
-- [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
 
 ### 🔨 Recent Pull Requests
 
-- [docs: add 10 critical engineering Q&amp;As and vendor repository links in README](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/53) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [docs: condense 3-minute video script to 299 words for ~2m50s ElevenLabs timing](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/52) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [docs: add 3-minute video demo script and storyboard for elevenlabs](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/51) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [fix(web): fallback to nested anomaly z and flag in RankingTable](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/50) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
-- [feat(web): ssot displayScore, remove hardcode caps, and qualify docs](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX/pull/49) on [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX)
+- [feat(security): implement zero-plaintext Windows DPAPI with Application Entropy, JIT SecretString, and DPAPIDesyncError](https://github.com/kazanaruishere-max/AETERNA/pull/16) on [kazanaruishere-max/AETERNA](https://github.com/kazanaruishere-max/AETERNA)
+- [feat(execution): implement server-side trailing stop and serial partial close with ticket re-anchoring](https://github.com/kazanaruishere-max/AETERNA/pull/15) on [kazanaruishere-max/AETERNA](https://github.com/kazanaruishere-max/AETERNA)
+- [docs(rtm): update REQ-EXE-001, REQ-EXE-006, REQ-EXE-002, and REQ-EXE-003 status to verified](https://github.com/kazanaruishere-max/AETERNA/pull/14) on [kazanaruishere-max/AETERNA](https://github.com/kazanaruishere-max/AETERNA)
+- [feat(execution): implement MT5 RLock thread-safety and server-side attached SL/TP bridge](https://github.com/kazanaruishere-max/AETERNA/pull/13) on [kazanaruishere-max/AETERNA](https://github.com/kazanaruishere-max/AETERNA)
+- [chore(instruments): remove legacy commodity directory and enforce flat instruments/xauusd structure](https://github.com/kazanaruishere-max/AETERNA/pull/12) on [kazanaruishere-max/AETERNA](https://github.com/kazanaruishere-max/AETERNA)
 
 ### ⭐ Recent Stars
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [himself65/trade-skills](https://github.com/himself65/trade-skills) - A collection of skills for AI trading.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.
-- [pavrus117/ai-os-maps-guide](https://github.com/pavrus117/ai-os-maps-guide) - Free MAPS guide: set up your own AI operating system on Claude Code (Memory, Agent, Pulse, Screen) — one prompt per layer
 
 ---
 
