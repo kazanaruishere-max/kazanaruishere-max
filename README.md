@@ -63,19 +63,19 @@
 
 ### 👷 Currently Working On
 
+- [kazanaruishere-max/OpenAeterna](https://github.com/kazanaruishere-max/OpenAeterna) - Deterministic XAUUSD quantitative research engine (AGPL-3.0-only)
 - [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
 - [kazanaruishere-max/Test-soal-LKS-AI-ENGINEER](https://github.com/kazanaruishere-max/Test-soal-LKS-AI-ENGINEER) - 
 - [IDARRRZ/agate-game](https://github.com/IDARRRZ/agate-game) - 
 - [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
-- [kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL](https://github.com/kazanaruishere-max/SEITH-TRADER-X-KRONOS-MODEL) - 
 
 ### 🌱 Latest Projects
 
+- [kazanaruishere-max/OpenAeterna](https://github.com/kazanaruishere-max/OpenAeterna) - Deterministic XAUUSD quantitative research engine (AGPL-3.0-only)
 - [kazanaruishere-max/SEITH-WARDEN](https://github.com/kazanaruishere-max/SEITH-WARDEN) - 
 - [kazanaruishere-max/Test-soal-LKS-AI-ENGINEER](https://github.com/kazanaruishere-max/Test-soal-LKS-AI-ENGINEER) - 
 - [kazanaruishere-max/SEITH-MARKET-IDX](https://github.com/kazanaruishere-max/SEITH-MARKET-IDX) - SEITH AI UNTUK HACKATON MARKET IDX
 - [kazanaruishere-max/Proxy-Opencode](https://github.com/kazanaruishere-max/Proxy-Opencode) - 
-- [kazanaruishere-max/Opencode-Config](https://github.com/kazanaruishere-max/Opencode-Config) - 
 
 ### 🔨 Recent Pull Requests
 
@@ -87,11 +87,11 @@
 
 ### ⭐ Recent Stars
 
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
+- [suislanchez/polymarket-kalshi-weather-bot](https://github.com/suislanchez/polymarket-kalshi-weather-bot) - Multi-platform prediction market trading bot: trades weather temperature markets on Kalshi (KXHIGH series) and Polymarket using 31-member GFS ensemble forecasts &#43; BTC 5-min microstructure signals. Kelly criterion sizing, signal calibration, React dashboard. (Highest profits $1.8k)
 - [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server &amp; CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors &amp; Android DEX against AI reverse-engineering agents (REA).
 - [0xemmkty/QuantMuse](https://github.com/0xemmkty/QuantMuse) - A comprehensive quantitative trading system with AI-powered analysis, real-time data processing, and advanced risk management
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-- [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-- [horizon-rust/horizon](https://github.com/horizon-rust/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
 
 ---
 
